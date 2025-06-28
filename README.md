@@ -71,7 +71,7 @@ skill-sync/
 ---
 ## 👩‍💻 About the Developer
 
-**Vaikhashi A**  
+Vaikhashi A  
 🎓 Final-year B.Tech CSE Student | 🎖️ AI & ML Honors  
 💻 Python Full Stack Developer | 🌐 Web Enthusiast | 🤖 AI Explorer  
 
