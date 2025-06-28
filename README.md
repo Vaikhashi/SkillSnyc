@@ -69,13 +69,13 @@ skill-sync/
 
 
 ---
-🙋‍♀️ About the Developer
-Vaikhashi A
-Python Full Stack Developer | B.Tech CSE @ CEC | AI & ML Honors | Space Tech Enthusiast
-📫 LinkedIn • ✉️ vaikhashi3134@gmail.com
+## 👩‍💻 About the Developer
 
-📌 License
-This project is licensed under the MIT License.
+**Vaikhashi A**  
+🎓 Final-year B.Tech CSE Student | 🎖️ AI & ML Honors  
+💻 Python Full Stack Developer | 🌐 Web Enthusiast | 🤖 AI Explorer  
 
-Built with ❤️ and curiosity to empower learning journeys through AI.
+I'm passionate about building impactful tech solutions that bridge education, career, and ethics in AI. With a strong foundation in Python, AI/ML, and web development, I'm on a mission to combine logic with creativity — and someday, apply it in space-tech too 🚀
+
+📫 [LinkedIn](https://www.linkedin.com/in/vaikhashi-a-7ab540237) • ✉️ vaikhashi3134@gmail.com • 🌐 [GitHub](https://github.com/Vaikhashi)
 
